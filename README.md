@@ -36,7 +36,7 @@ To analyze and visualize global YouTube trends to answer questions like:
 📸 *Sample Dashboard Preview:*
 
 Screenshot of the Dashboard - https://github.com/blankspace412/Global-YouTube-Insights-Analysis/blob/main/Global%20YouTube%20SS.png 
-Dashboard pbix file - 
+Dashboard pbix file - https://github.com/blankspace412/Global-YouTube-Insights-Analysis/blob/main/Global%20YouTube%20Insights%20Dashboard.pbix 
 
 ---
 
